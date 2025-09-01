@@ -81,3 +81,6 @@ This project generates fake e-commerce order data every day, closely mimicking r
 3. Commit your changes (git commit -m 'Add amazing feature')
 4. Push to the branch (git push origin feature/amazing-feature)
 5. Open a Pull Request
+
+## License
+MIT © 2025 Himanshu
