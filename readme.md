@@ -11,7 +11,7 @@ This project generates fake e-commerce order data every day, closely mimicking r
 
 ## ⚙️ How It Works
 
-![architecture](architecture.png)
+<img src="architecture.png" width=500 height=600/>
 
 1. Lambda Trigger
     * EventBridge Scheduler calls the Lambda function once per day.
